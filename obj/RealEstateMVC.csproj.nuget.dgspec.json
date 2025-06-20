@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EBRAHEM_PC\\source\\repos\\RealEstateMVC\\RealEstateMVC.csproj": {}
+    "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\RealEstateMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EBRAHEM_PC\\source\\repos\\RealEstateMVC\\RealEstateMVC.csproj": {
+    "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\RealEstateMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EBRAHEM_PC\\source\\repos\\RealEstateMVC\\RealEstateMVC.csproj",
+        "projectUniqueName": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\RealEstateMVC.csproj",
         "projectName": "RealEstateMVC",
-        "projectPath": "C:\\Users\\EBRAHEM_PC\\source\\repos\\RealEstateMVC\\RealEstateMVC.csproj",
-        "packagesPath": "C:\\Users\\EBRAHEM_PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EBRAHEM_PC\\source\\repos\\RealEstateMVC\\obj\\",
+        "projectPath": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\RealEstateMVC.csproj",
+        "packagesPath": "C:\\Users\\EBRAHEM-PC\\.nuget\\packages\\",
+        "outputPath": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
-          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\EBRAHEM_PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
+          "C:\\Users\\EBRAHEM-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -30,8 +28,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
-          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -48,9 +46,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -96,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

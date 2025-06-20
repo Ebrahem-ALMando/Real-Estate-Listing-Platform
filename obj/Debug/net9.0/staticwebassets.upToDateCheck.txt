@@ -1,0 +1,141 @@
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\jquery-validation\LICENSE.md
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\js\script.js
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\jquery\dist\jquery.min.js
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\jquery\dist\jquery.min.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\jquery\dist\jquery.js
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\jquery\LICENSE.txt
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\css\style.css
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\jquery\dist\jquery.slim.min.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\jquery\dist\jquery.slim.min.js
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\favicon.ico
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\css\style.css
+wwwroot\favicon.ico
+wwwroot\images\about-banner-1.png
+wwwroot\images\about-banner-2.jpg
+wwwroot\images\author.jpg
+wwwroot\images\blog-1.png
+wwwroot\images\blog-2.jpg
+wwwroot\images\blog-3.jpg
+wwwroot\images\hero-banner.png
+wwwroot\images\logo.png
+wwwroot\images\logo-light.png
+wwwroot\images\property-1.jpg
+wwwroot\images\property-2.jpg
+wwwroot\images\property-3.jpg
+wwwroot\images\property-4.png
+wwwroot\images\service-1.png
+wwwroot\images\service-2.png
+wwwroot\images\service-3.png
+wwwroot\js\script.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
