@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - RealEstateMVC</title>
+
+
+    <link rel="stylesheet" href="~/css/style.css" />
+    <link rel="stylesheet" href="~/css/homeverse.css" />
+ 
+</head>
+<body>
+
+   
+    @RenderBody()
+
+    <script src="~/js/main.js"></script>
+    <script src="~/js/script.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+    @RenderSection("Styles", required: false)
+
+</body>
+</html>
