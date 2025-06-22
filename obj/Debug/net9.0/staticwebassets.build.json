@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m4L/i2sqLNf3gh6FEZEEwe4detNNXZRDJr4ddpVLyYM=",
+  "Hash": "N7Sk+4d0EqEVf/q4vck5+JxR4a5pT9McUCdrC5+TEUc=",
   "Source": "RealEstateMVC",
   "BasePath": "_content/RealEstateMVC",
   "Mode": "Default",
@@ -2936,12 +2936,12 @@
       "OriginalItemSpec": "C:\\Users\\EBRAHEM-PC\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.4\\staticwebassets\\V5\\css\\site.css"
     },
     {
-      "Identity": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\obj\\Debug\\net9.0\\compressed\\owbmq5ubk2-9o5wpltfbt.gz",
+      "Identity": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\obj\\Debug\\net9.0\\compressed\\owbmq5ubk2-1i6tg8qe5k.gz",
       "SourceId": "RealEstateMVC",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/RealEstateMVC",
-      "RelativePath": "css/style#[.{fingerprint=9o5wpltfbt}]?.css.gz",
+      "RelativePath": "css/style#[.{fingerprint=1i6tg8qe5k}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2950,8 +2950,8 @@
       "RelatedAsset": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\wwwroot\\css\\style.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5iokm8jocq",
-      "Integrity": "8yDg4q3mkUTUjErzn3Ief2M8iscAOUVkPZa5UhoCK0s=",
+      "Fingerprint": "w5ptla738q",
+      "Integrity": "pPGNtWGZfoFjh/nbEQxeUEOd9kDQeUz/T1al3U9xU00=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\wwwroot\\css\\style.css"
@@ -4042,8 +4042,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9o5wpltfbt",
-      "Integrity": "R17vZFyM2OmdeDLNiGOexjEeOBCm01p85lnFXsKEYos=",
+      "Fingerprint": "1i6tg8qe5k",
+      "Integrity": "KRY4aG14WIpkz/Kxh7XUGeDUTso1iW+gHwK+U4I88k0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
@@ -4404,6 +4404,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\service-3.png"
+    },
+    {
+      "Identity": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\wwwroot\\images\\users\\902a4903-5ef2-4772-89f1-d44e79decb57.jpg",
+      "SourceId": "RealEstateMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\wwwroot\\",
+      "BasePath": "_content/RealEstateMVC",
+      "RelativePath": "images/users/902a4903-5ef2-4772-89f1-d44e79decb57#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ln2pd2tgzy",
+      "Integrity": "sR7YgdOW9+cQbQub0FrECZ0SZIQtKE91mCTi7dIFzt4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\users\\902a4903-5ef2-4772-89f1-d44e79decb57.jpg"
+    },
+    {
+      "Identity": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\wwwroot\\images\\users\\bf0d544b-72da-4e21-b5c6-2bf13f8e363c.jpg",
+      "SourceId": "RealEstateMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\wwwroot\\",
+      "BasePath": "_content/RealEstateMVC",
+      "RelativePath": "images/users/bf0d544b-72da-4e21-b5c6-2bf13f8e363c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ln2pd2tgzy",
+      "Integrity": "sR7YgdOW9+cQbQub0FrECZ0SZIQtKE91mCTi7dIFzt4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\users\\bf0d544b-72da-4e21-b5c6-2bf13f8e363c.jpg"
+    },
+    {
+      "Identity": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\wwwroot\\images\\users\\dc06ec3d-0d79-4548-a5f7-c201a13a4cfc.jpg",
+      "SourceId": "RealEstateMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\wwwroot\\",
+      "BasePath": "_content/RealEstateMVC",
+      "RelativePath": "images/users/dc06ec3d-0d79-4548-a5f7-c201a13a4cfc#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ln2pd2tgzy",
+      "Integrity": "sR7YgdOW9+cQbQub0FrECZ0SZIQtKE91mCTi7dIFzt4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\users\\dc06ec3d-0d79-4548-a5f7-c201a13a4cfc.jpg"
     },
     {
       "Identity": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\wwwroot\\js\\script.js",
@@ -5726,13 +5789,13 @@
       ]
     },
     {
-      "Route": "css/style.9o5wpltfbt.css",
-      "AssetFile": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\obj\\Debug\\net9.0\\compressed\\owbmq5ubk2-9o5wpltfbt.gz",
+      "Route": "css/style.1i6tg8qe5k.css",
+      "AssetFile": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\obj\\Debug\\net9.0\\compressed\\owbmq5ubk2-1i6tg8qe5k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000201612903"
+          "Quality": "0.000194741967"
         }
       ],
       "ResponseHeaders": [
@@ -5742,15 +5805,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4959"
+          "Value": "5134"
         },
         {
           "Name": "ETag",
-          "Value": "\"8yDg4q3mkUTUjErzn3Ief2M8iscAOUVkPZa5UhoCK0s=\""
+          "Value": "\"pPGNtWGZfoFjh/nbEQxeUEOd9kDQeUz/T1al3U9xU00=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 31 Aug 2023 01:03:56 GMT"
+          "Value": "Fri, 20 Jun 2025 20:37:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5770,13 +5833,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"R17vZFyM2OmdeDLNiGOexjEeOBCm01p85lnFXsKEYos=\""
+          "Value": "W/\"KRY4aG14WIpkz/Kxh7XUGeDUTso1iW+gHwK+U4I88k0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9o5wpltfbt"
+          "Value": "1i6tg8qe5k"
         },
         {
           "Name": "label",
@@ -5784,12 +5847,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-R17vZFyM2OmdeDLNiGOexjEeOBCm01p85lnFXsKEYos="
+          "Value": "sha256-KRY4aG14WIpkz/Kxh7XUGeDUTso1iW+gHwK+U4I88k0="
         }
       ]
     },
     {
-      "Route": "css/style.9o5wpltfbt.css",
+      "Route": "css/style.1i6tg8qe5k.css",
       "AssetFile": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5799,7 +5862,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26362"
+          "Value": "27024"
         },
         {
           "Name": "Content-Type",
@@ -5807,11 +5870,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"R17vZFyM2OmdeDLNiGOexjEeOBCm01p85lnFXsKEYos=\""
+          "Value": "\"KRY4aG14WIpkz/Kxh7XUGeDUTso1iW+gHwK+U4I88k0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 31 Aug 2023 01:03:56 GMT"
+          "Value": "Fri, 20 Jun 2025 20:37:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5821,7 +5884,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9o5wpltfbt"
+          "Value": "1i6tg8qe5k"
         },
         {
           "Name": "label",
@@ -5829,13 +5892,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-R17vZFyM2OmdeDLNiGOexjEeOBCm01p85lnFXsKEYos="
+          "Value": "sha256-KRY4aG14WIpkz/Kxh7XUGeDUTso1iW+gHwK+U4I88k0="
         }
       ]
     },
     {
-      "Route": "css/style.9o5wpltfbt.css.gz",
-      "AssetFile": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\obj\\Debug\\net9.0\\compressed\\owbmq5ubk2-9o5wpltfbt.gz",
+      "Route": "css/style.1i6tg8qe5k.css.gz",
+      "AssetFile": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\obj\\Debug\\net9.0\\compressed\\owbmq5ubk2-1i6tg8qe5k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5844,7 +5907,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4959"
+          "Value": "5134"
         },
         {
           "Name": "Content-Type",
@@ -5852,11 +5915,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8yDg4q3mkUTUjErzn3Ief2M8iscAOUVkPZa5UhoCK0s=\""
+          "Value": "\"pPGNtWGZfoFjh/nbEQxeUEOd9kDQeUz/T1al3U9xU00=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 31 Aug 2023 01:03:56 GMT"
+          "Value": "Fri, 20 Jun 2025 20:37:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5874,7 +5937,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9o5wpltfbt"
+          "Value": "1i6tg8qe5k"
         },
         {
           "Name": "label",
@@ -5882,18 +5945,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8yDg4q3mkUTUjErzn3Ief2M8iscAOUVkPZa5UhoCK0s="
+          "Value": "sha256-pPGNtWGZfoFjh/nbEQxeUEOd9kDQeUz/T1al3U9xU00="
         }
       ]
     },
     {
       "Route": "css/style.css",
-      "AssetFile": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\obj\\Debug\\net9.0\\compressed\\owbmq5ubk2-9o5wpltfbt.gz",
+      "AssetFile": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\obj\\Debug\\net9.0\\compressed\\owbmq5ubk2-1i6tg8qe5k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000201612903"
+          "Quality": "0.000194741967"
         }
       ],
       "ResponseHeaders": [
@@ -5903,15 +5966,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4959"
+          "Value": "5134"
         },
         {
           "Name": "ETag",
-          "Value": "\"8yDg4q3mkUTUjErzn3Ief2M8iscAOUVkPZa5UhoCK0s=\""
+          "Value": "\"pPGNtWGZfoFjh/nbEQxeUEOd9kDQeUz/T1al3U9xU00=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 31 Aug 2023 01:03:56 GMT"
+          "Value": "Fri, 20 Jun 2025 20:37:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5931,13 +5994,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"R17vZFyM2OmdeDLNiGOexjEeOBCm01p85lnFXsKEYos=\""
+          "Value": "W/\"KRY4aG14WIpkz/Kxh7XUGeDUTso1iW+gHwK+U4I88k0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-R17vZFyM2OmdeDLNiGOexjEeOBCm01p85lnFXsKEYos="
+          "Value": "sha256-KRY4aG14WIpkz/Kxh7XUGeDUTso1iW+gHwK+U4I88k0="
         }
       ]
     },
@@ -5952,7 +6015,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26362"
+          "Value": "27024"
         },
         {
           "Name": "Content-Type",
@@ -5960,11 +6023,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"R17vZFyM2OmdeDLNiGOexjEeOBCm01p85lnFXsKEYos=\""
+          "Value": "\"KRY4aG14WIpkz/Kxh7XUGeDUTso1iW+gHwK+U4I88k0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 31 Aug 2023 01:03:56 GMT"
+          "Value": "Fri, 20 Jun 2025 20:37:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5974,13 +6037,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-R17vZFyM2OmdeDLNiGOexjEeOBCm01p85lnFXsKEYos="
+          "Value": "sha256-KRY4aG14WIpkz/Kxh7XUGeDUTso1iW+gHwK+U4I88k0="
         }
       ]
     },
     {
       "Route": "css/style.css.gz",
-      "AssetFile": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\obj\\Debug\\net9.0\\compressed\\owbmq5ubk2-9o5wpltfbt.gz",
+      "AssetFile": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\obj\\Debug\\net9.0\\compressed\\owbmq5ubk2-1i6tg8qe5k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5989,7 +6052,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4959"
+          "Value": "5134"
         },
         {
           "Name": "Content-Type",
@@ -5997,11 +6060,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8yDg4q3mkUTUjErzn3Ief2M8iscAOUVkPZa5UhoCK0s=\""
+          "Value": "\"pPGNtWGZfoFjh/nbEQxeUEOd9kDQeUz/T1al3U9xU00=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 31 Aug 2023 01:03:56 GMT"
+          "Value": "Fri, 20 Jun 2025 20:37:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6019,7 +6082,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8yDg4q3mkUTUjErzn3Ief2M8iscAOUVkPZa5UhoCK0s="
+          "Value": "sha256-pPGNtWGZfoFjh/nbEQxeUEOd9kDQeUz/T1al3U9xU00="
         }
       ]
     },
@@ -16198,6 +16261,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-TeP7BCQqo+RjSgzWWAqOPlWtd+VQlXrQkJTpP8JKIFI="
+        }
+      ]
+    },
+    {
+      "Route": "images/users/902a4903-5ef2-4772-89f1-d44e79decb57.jpg",
+      "AssetFile": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\wwwroot\\images\\users\\902a4903-5ef2-4772-89f1-d44e79decb57.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR7YgdOW9+cQbQub0FrECZ0SZIQtKE91mCTi7dIFzt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Jun 2025 17:56:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR7YgdOW9+cQbQub0FrECZ0SZIQtKE91mCTi7dIFzt4="
+        }
+      ]
+    },
+    {
+      "Route": "images/users/902a4903-5ef2-4772-89f1-d44e79decb57.ln2pd2tgzy.jpg",
+      "AssetFile": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\wwwroot\\images\\users\\902a4903-5ef2-4772-89f1-d44e79decb57.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR7YgdOW9+cQbQub0FrECZ0SZIQtKE91mCTi7dIFzt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Jun 2025 17:56:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ln2pd2tgzy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/users/902a4903-5ef2-4772-89f1-d44e79decb57.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR7YgdOW9+cQbQub0FrECZ0SZIQtKE91mCTi7dIFzt4="
+        }
+      ]
+    },
+    {
+      "Route": "images/users/bf0d544b-72da-4e21-b5c6-2bf13f8e363c.jpg",
+      "AssetFile": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\wwwroot\\images\\users\\bf0d544b-72da-4e21-b5c6-2bf13f8e363c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR7YgdOW9+cQbQub0FrECZ0SZIQtKE91mCTi7dIFzt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Jun 2025 17:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR7YgdOW9+cQbQub0FrECZ0SZIQtKE91mCTi7dIFzt4="
+        }
+      ]
+    },
+    {
+      "Route": "images/users/bf0d544b-72da-4e21-b5c6-2bf13f8e363c.ln2pd2tgzy.jpg",
+      "AssetFile": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\wwwroot\\images\\users\\bf0d544b-72da-4e21-b5c6-2bf13f8e363c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR7YgdOW9+cQbQub0FrECZ0SZIQtKE91mCTi7dIFzt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Jun 2025 17:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ln2pd2tgzy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/users/bf0d544b-72da-4e21-b5c6-2bf13f8e363c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR7YgdOW9+cQbQub0FrECZ0SZIQtKE91mCTi7dIFzt4="
+        }
+      ]
+    },
+    {
+      "Route": "images/users/dc06ec3d-0d79-4548-a5f7-c201a13a4cfc.jpg",
+      "AssetFile": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\wwwroot\\images\\users\\dc06ec3d-0d79-4548-a5f7-c201a13a4cfc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR7YgdOW9+cQbQub0FrECZ0SZIQtKE91mCTi7dIFzt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Jun 2025 17:56:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR7YgdOW9+cQbQub0FrECZ0SZIQtKE91mCTi7dIFzt4="
+        }
+      ]
+    },
+    {
+      "Route": "images/users/dc06ec3d-0d79-4548-a5f7-c201a13a4cfc.ln2pd2tgzy.jpg",
+      "AssetFile": "D:\\Ebrahem\\كلية الهندسة المعلوماتية -دراستي\\اعمال السنوات الدراسية\\السنة الرابعة\\فصل ثاني\\ويب\\RealEstateMVC\\RealEstateMVC\\wwwroot\\images\\users\\dc06ec3d-0d79-4548-a5f7-c201a13a4cfc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR7YgdOW9+cQbQub0FrECZ0SZIQtKE91mCTi7dIFzt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Jun 2025 17:56:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ln2pd2tgzy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/users/dc06ec3d-0d79-4548-a5f7-c201a13a4cfc.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR7YgdOW9+cQbQub0FrECZ0SZIQtKE91mCTi7dIFzt4="
         }
       ]
     },
@@ -36445,7 +36754,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Jun 2025 17:29:45 GMT"
+          "Value": "Fri, 20 Jun 2025 20:33:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36498,7 +36807,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Jun 2025 17:29:45 GMT"
+          "Value": "Fri, 20 Jun 2025 20:33:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36535,7 +36844,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Jun 2025 17:29:45 GMT"
+          "Value": "Fri, 20 Jun 2025 20:33:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36582,7 +36891,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Jun 2025 17:29:45 GMT"
+          "Value": "Fri, 20 Jun 2025 20:33:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36643,7 +36952,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Jun 2025 17:29:45 GMT"
+          "Value": "Fri, 20 Jun 2025 20:33:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36688,7 +36997,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Jun 2025 17:29:45 GMT"
+          "Value": "Fri, 20 Jun 2025 20:33:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36743,7 +37052,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Jun 2025 17:29:45 GMT"
+          "Value": "Fri, 20 Jun 2025 20:33:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36804,7 +37113,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Jun 2025 17:29:45 GMT"
+          "Value": "Fri, 20 Jun 2025 20:33:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36849,7 +37158,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Jun 2025 17:29:45 GMT"
+          "Value": "Fri, 20 Jun 2025 20:33:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36904,7 +37213,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Jun 2025 17:29:45 GMT"
+          "Value": "Fri, 20 Jun 2025 20:33:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36957,7 +37266,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Jun 2025 17:29:45 GMT"
+          "Value": "Fri, 20 Jun 2025 20:33:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36994,7 +37303,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Jun 2025 17:29:45 GMT"
+          "Value": "Fri, 20 Jun 2025 20:33:39 GMT"
         },
         {
           "Name": "Cache-Control",

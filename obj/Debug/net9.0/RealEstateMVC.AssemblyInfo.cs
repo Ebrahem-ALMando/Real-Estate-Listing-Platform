@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RealEstateMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6486cb5bc94950fd95163f9d5bd0f724f2fe549")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0b12e098b322327b834da40bdac41b12a7bfb36")]
 [assembly: System.Reflection.AssemblyProductAttribute("RealEstateMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RealEstateMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

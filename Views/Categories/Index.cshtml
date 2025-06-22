@@ -1,0 +1,44 @@
+﻿@model IEnumerable<RealEstateMVC.Models.Category>
+
+@{
+    ViewData["Title"] = "إدارة التصنيفات";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2 class="text-primary fw-bold">إدارة التصنيفات</h2>
+        <a class="btn btn-success" asp-action="Create">
+            <i class="bi bi-plus-circle me-1"></i> إضافة تصنيف
+        </a>
+    </div>
+
+    <table class="table table-bordered table-hover table-striped text-center align-middle shadow-sm">
+        <thead class="table-dark">
+            <tr>
+                <th>اسم التصنيف</th>
+                <th>الإجراءات</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                    <td>
+                        <div class="btn-group" role="group">
+                            <a class="btn btn-outline-primary btn-sm" asp-action="Edit" asp-route-id="@item.Id">
+                                <i class="bi bi-pencil-square"></i> تعديل
+                            </a>
+                            <a class="btn btn-outline-info btn-sm" asp-action="Details" asp-route-id="@item.Id">
+                                <i class="bi bi-info-circle"></i> تفاصيل
+                            </a>
+                            <a class="btn btn-outline-danger btn-sm" asp-action="Delete" asp-route-id="@item.Id">
+                                <i class="bi bi-trash"></i> حذف
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

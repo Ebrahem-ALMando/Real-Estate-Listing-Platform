@@ -1,4 +1,5 @@
-﻿using RealEstateMVC.Models;
+﻿using Microsoft.EntityFrameworkCore;
+using RealEstateMVC.Models;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -15,6 +16,7 @@ namespace RealEstateMVC.Models
         public string Description { get; set; }
 
         [Required]
+        [Precision(18, 2)]
         public decimal Price { get; set; }
 
         [Required]
@@ -25,7 +27,7 @@ namespace RealEstateMVC.Models
 
         // المساحة بالمتر المربع
         public int Area { get; set; }
-        public string ImageUrl { get; set; }
+        public string MainImageUrl { get; set; }
 
         // الحقل الذي أضفته لتمييز العقار
         public bool IsFeatured { get; set; }
@@ -38,5 +40,7 @@ namespace RealEstateMVC.Models
         // 2. هذه الخاصية تربط المفتاح الخارجي بجدول الفئات مباشرة
         [ForeignKey("CategoryId")]
         public virtual Category Category { get; set; }
+        public virtual ICollection<PropertyImage> PropertyImages { get; set; }
+
     }
 }

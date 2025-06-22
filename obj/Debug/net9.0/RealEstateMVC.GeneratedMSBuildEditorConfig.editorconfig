@@ -22,14 +22,62 @@ build_property.EnableComHosting =
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Views/Home/Index.cshtml]
@@ -76,8 +124,44 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Views/Property/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcRGV0YWlscy5jc2h0bWw=
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Views/Messages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Views/Messages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Views/Messages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Views/Messages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Views/Messages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Views/Properties/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydGllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Views/Properties/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydGllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Views/Properties/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydGllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Views/Properties/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydGllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Views/Properties/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydGllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Ebrahem/كلية الهندسة المعلوماتية -دراستي/اعمال السنوات الدراسية/السنة الرابعة/فصل ثاني/ويب/RealEstateMVC/RealEstateMVC/Views/Shared/Error.cshtml]

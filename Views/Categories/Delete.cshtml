@@ -1,0 +1,33 @@
+﻿@model RealEstateMVC.Models.Category
+
+@{
+    ViewData["Title"] = "حذف التصنيف";
+}
+
+<div class="container mt-5">
+    <div class="card shadow rounded border-danger">
+        <div class="card-header bg-danger text-white">
+            <h4 class="mb-0"><i class="bi bi-exclamation-triangle-fill me-2"></i> تأكيد الحذف</h4>
+        </div>
+        <div class="card-body">
+            <p class="fw-bold text-danger">هل أنت متأكد أنك تريد حذف هذا التصنيف؟ لا يمكن التراجع بعد الحذف.</p>
+
+            <dl class="row">
+                <dt class="col-sm-3 fw-bold">اسم التصنيف:</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Name)</dd>
+            </dl>
+
+            <form asp-action="Delete" class="mt-4">
+                <input type="hidden" asp-for="Id" />
+                <div class="d-flex justify-content-between">
+                    <a asp-action="Index" class="btn btn-outline-secondary">
+                        <i class="bi bi-arrow-bar-left"></i> إلغاء
+                    </a>
+                    <button type="submit" class="btn btn-danger">
+                        <i class="bi bi-trash"></i> حذف نهائي
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9o5wpltfbt</Fingerprint>
-      <Integrity>R17vZFyM2OmdeDLNiGOexjEeOBCm01p85lnFXsKEYos=</Integrity>
+      <Fingerprint>1i6tg8qe5k</Fingerprint>
+      <Integrity>KRY4aG14WIpkz/Kxh7XUGeDUTso1iW+gHwK+U4I88k0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</OriginalItemSpec>
@@ -323,6 +323,60 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\service-3.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\users\902a4903-5ef2-4772-89f1-d44e79decb57.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>RealEstateMVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/RealEstateMVC</BasePath>
+      <RelativePath>images/users/902a4903-5ef2-4772-89f1-d44e79decb57.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ln2pd2tgzy</Fingerprint>
+      <Integrity>sR7YgdOW9+cQbQub0FrECZ0SZIQtKE91mCTi7dIFzt4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\users\902a4903-5ef2-4772-89f1-d44e79decb57.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\users\bf0d544b-72da-4e21-b5c6-2bf13f8e363c.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>RealEstateMVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/RealEstateMVC</BasePath>
+      <RelativePath>images/users/bf0d544b-72da-4e21-b5c6-2bf13f8e363c.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ln2pd2tgzy</Fingerprint>
+      <Integrity>sR7YgdOW9+cQbQub0FrECZ0SZIQtKE91mCTi7dIFzt4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\users\bf0d544b-72da-4e21-b5c6-2bf13f8e363c.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\users\dc06ec3d-0d79-4548-a5f7-c201a13a4cfc.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>RealEstateMVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/RealEstateMVC</BasePath>
+      <RelativePath>images/users/dc06ec3d-0d79-4548-a5f7-c201a13a4cfc.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ln2pd2tgzy</Fingerprint>
+      <Integrity>sR7YgdOW9+cQbQub0FrECZ0SZIQtKE91mCTi7dIFzt4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\users\dc06ec3d-0d79-4548-a5f7-c201a13a4cfc.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\script.js'))">
       <SourceType>Package</SourceType>

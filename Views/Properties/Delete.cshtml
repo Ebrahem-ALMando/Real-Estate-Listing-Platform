@@ -1,0 +1,68 @@
+﻿@model RealEstateMVC.Models.Property
+
+@{
+    ViewData["Title"] = "حذف العقار";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-sm border-0 p-4 bg-white rounded">
+        <h2 class="text-danger fw-bold mb-4">
+            <i class="bi bi-exclamation-triangle-fill me-2"></i>
+            هل أنت متأكد أنك تريد حذف هذا العقار؟
+        </h2>
+
+        <div class="row g-3">
+            <div class="col-md-6">
+                <dl class="row">
+                    <dt class="col-sm-4">العنوان</dt>
+                    <dd class="col-sm-8">@Model.Title</dd>
+
+                    <dt class="col-sm-4">الوصف</dt>
+                    <dd class="col-sm-8">@Model.Description</dd>
+
+                    <dt class="col-sm-4">السعر</dt>
+                    <dd class="col-sm-8">@Model.Price</dd>
+
+                    <dt class="col-sm-4">العنوان التفصيلي</dt>
+                    <dd class="col-sm-8">@Model.Address</dd>
+
+                    <dt class="col-sm-4">الغرف</dt>
+                    <dd class="col-sm-8">@Model.Bedrooms</dd>
+
+                    <dt class="col-sm-4">الحمامات</dt>
+                    <dd class="col-sm-8">@Model.Bathrooms</dd>
+
+                    <dt class="col-sm-4">المساحة</dt>
+                    <dd class="col-sm-8">@Model.Area</dd>
+
+                    <dt class="col-sm-4">مميز؟</dt>
+                    <dd class="col-sm-8">@(Model.IsFeatured ? "نعم" : "لا")</dd>
+
+                    <dt class="col-sm-4">التصنيف</dt>
+                    <dd class="col-sm-8">@Model.Category?.Name</dd>
+                </dl>
+            </div>
+
+            <div class="col-md-6 text-center">
+                @if (!string.IsNullOrEmpty(Model.MainImageUrl))
+                {
+                    <img src="@Model.MainImageUrl" alt="صورة العقار" class="img-fluid rounded border" style="max-height: 300px;" />
+                }
+                else
+                {
+                    <div class="text-muted fst-italic mt-4">لا توجد صورة</div>
+                }
+            </div>
+        </div>
+
+        <form asp-action="Delete" method="post" class="mt-4 d-flex justify-content-end">
+            <input type="hidden" asp-for="Id" />
+            <button type="submit" class="btn btn-danger me-2">
+                <i class="bi bi-trash-fill"></i> حذف نهائي
+            </button>
+            <a asp-action="Index" class="btn btn-secondary">
+                <i class="bi bi-arrow-return-left"></i> العودة للقائمة
+            </a>
+        </form>
+    </div>
+</div>

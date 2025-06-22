@@ -1,0 +1,54 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "إنشاء حساب";
+    Layout = "~/Views/Shared/_Layout.cshtml"; 
+}
+
+<div class="container mt-5" dir="rtl">
+    <h2 class="text-center mb-4">@ViewData["Title"]</h2>
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3" role="alert"></div>
+
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.FullName" class="form-control" placeholder="الاسم الكامل" />
+                    <label asp-for="Input.FullName">الاسم الكامل</label>
+                    <span asp-validation-for="Input.FullName" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Input.ProfileImage" class="form-label">صورة الملف الشخصي</label>
+                    <input asp-for="Input.ProfileImage" type="file" class="form-control" />
+                    <span asp-validation-for="Input.ProfileImage" class="text-danger"></span>
+                </div>
+
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.Email" class="form-control" autocomplete="username" placeholder="example@email.com" />
+                    <label asp-for="Input.Email">البريد الإلكتروني</label>
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.Password" class="form-control" autocomplete="new-password" placeholder="كلمة المرور" />
+                    <label asp-for="Input.Password">كلمة المرور</label>
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                </div>
+
+                <div class="form-floating mb-4">
+                    <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" placeholder="تأكيد كلمة المرور" />
+                    <label asp-for="Input.ConfirmPassword">تأكيد كلمة المرور</label>
+                    <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                </div>
+
+                <button id="registerSubmit" type="submit" class="btn btn-success w-100">إنشاء الحساب</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

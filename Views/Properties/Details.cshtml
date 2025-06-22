@@ -1,0 +1,67 @@
+﻿@model RealEstateMVC.Models.Property
+
+@{
+    ViewData["Title"] = "تفاصيل العقار";
+}
+
+<div class="container mt-4">
+    <h2 class="text-primary fw-bold mb-4">تفاصيل العقار</h2>
+
+    <div class="card shadow-sm border-0 p-4 bg-white rounded">
+        <div class="row g-3">
+
+            <div class="col-md-6">
+                <dl class="row">
+                    <dt class="col-sm-4">العنوان</dt>
+                    <dd class="col-sm-8">@Model.Title</dd>
+
+                    <dt class="col-sm-4">الوصف</dt>
+                    <dd class="col-sm-8">@Model.Description</dd>
+
+                    <dt class="col-sm-4">السعر</dt>
+                    <dd class="col-sm-8">@Model.Price</dd>
+
+                    <dt class="col-sm-4">العنوان التفصيلي</dt>
+                    <dd class="col-sm-8">@Model.Address</dd>
+
+                    <dt class="col-sm-4">عدد الغرف</dt>
+                    <dd class="col-sm-8">@Model.Bedrooms</dd>
+
+                    <dt class="col-sm-4">عدد الحمامات</dt>
+                    <dd class="col-sm-8">@Model.Bathrooms</dd>
+
+                    <dt class="col-sm-4">المساحة (م²)</dt>
+                    <dd class="col-sm-8">@Model.Area</dd>
+
+                    <dt class="col-sm-4">تصنيف العقار</dt>
+                    <dd class="col-sm-8">@Model.Category?.Name</dd>
+
+                    <dt class="col-sm-4">مميز؟</dt>
+                    <dd class="col-sm-8">
+                        @(Model.IsFeatured ? "نعم" : "لا")
+                    </dd>
+                </dl>
+            </div>
+
+            <div class="col-md-6 text-center">
+                @if (!string.IsNullOrEmpty(Model.MainImageUrl))
+                {
+                    <img src="@Model.MainImageUrl" alt="صورة العقار" class="img-fluid rounded border" style="max-height: 300px;" />
+                }
+                else
+                {
+                    <div class="text-muted fst-italic mt-4">لا توجد صورة مرفقة</div>
+                }
+            </div>
+        </div>
+
+        <div class="mt-4 d-flex justify-content-end">
+            <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-warning me-2">
+                <i class="bi bi-pencil-square"></i> تعديل
+            </a>
+            <a asp-action="Index" class="btn btn-secondary">
+                <i class="bi bi-arrow-return-left"></i> العودة للقائمة
+            </a>
+        </div>
+    </div>
+</div>
