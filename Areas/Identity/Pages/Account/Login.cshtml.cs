@@ -139,7 +139,7 @@ namespace RealEstateMVC.Areas.Identity.Pages.Account
 
                     if (await _userManager.IsInRoleAsync(user, "Admin"))
                     {
-                        return RedirectToAction("Index", "AdminDashboard");
+                        return RedirectToAction("Index", "Dashboard");
                     }
                     else if (await _userManager.IsInRoleAsync(user, "User"))
                     {

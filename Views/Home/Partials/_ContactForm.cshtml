@@ -1,0 +1,44 @@
+﻿@model RealEstateMVC.Models.Message
+
+<section class="contact" id="contact">
+    <div class="container">
+        <h2 class="h2 section-title">راسلنا الآن</h2>
+        <p class="section-subtitle">أرسل لنا رسالة وسنقوم بالرد عليك في أقرب وقت</p>
+
+        @if (TempData["Success"] != null)
+        {
+            <div class="alert alert-success">@TempData["Success"]</div>
+        }
+
+        <form asp-action="Contact" asp-controller="Home" method="post" class="contact-form">
+            @Html.AntiForgeryToken()
+
+            <div>
+                <input asp-for="SenderName" placeholder="الاسم الكامل" class="form-control mt-2 mb-2" required />
+                <span asp-validation-for="SenderName" class="text-danger"></span>
+            </div>
+
+            <div>
+                <input asp-for="SenderEmail" placeholder="البريد الإلكتروني" class="form-control mt-2 mb-2" required />
+                <span asp-validation-for="SenderEmail" class="text-danger"></span>
+            </div>
+
+            <div>
+                <input asp-for="Subject" placeholder="الموضوع " class="form-control mt-2 mb-2" required />
+            </div>
+
+            <div>
+                <textarea asp-for="Content" placeholder="اكتب رسالتك هنا..." class="form-control mt-2 mb-2" rows="5" required></textarea>
+                <span asp-validation-for="Content" class="text-danger"></span>
+            </div>
+
+            <div>
+                <a href="#contact" class="">
+                    <button type="submit" class="btn btn-primary mt-2 mb-2">إرسال</button>
+                </a>
+               
+            </div>
+        </form>
+        <partial name="_ValidationScriptsPartial" />
+    </div>
+</section>

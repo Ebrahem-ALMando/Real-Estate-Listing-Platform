@@ -642,6 +642,7 @@ button, a { transition: var(--transition); }
 .property { padding-block: var(--section-padding); }
 
 .property-card {
+
   border: 1px solid var(--alice-blue);
   box-shadow: var(--shadow-2);
 }
@@ -654,11 +655,12 @@ button, a { transition: var(--transition); }
 
 .property-card .card-banner a { height: 100%; }
 
-.property-card .card-banner img {
-  height: 100%;
-  object-fit: cover;
-  transition: 0.5s ease;
-}
+    .property-card .card-banner img {
+        width: 300px;
+        height: 100%;
+        object-fit: cover;
+        transition: 0.5s ease;
+    }
 
 .property-card:hover .card-banner img { transform: scale(1.1); }
 

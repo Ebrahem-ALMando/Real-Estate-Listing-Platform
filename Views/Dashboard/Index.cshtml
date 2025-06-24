@@ -1,0 +1,186 @@
+﻿@{
+    ViewData["Title"] = "لوحة التحكم";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+@section Styles {
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" />
+    <style>
+        .animate-card {
+            animation: fadeInUp 0.8s ease-in-out both;
+        }
+    </style>
+}
+
+<div class="container mt-5">
+    <h2 class="fw-bold text-primary mb-4 animate__animated animate__fadeInDown">لوحة التحكم</h2>
+
+    <div class="row row-cols-1 row-cols-md-5 g-4">
+        <div class="col animate-card">
+            <div class="card text-white bg-primary shadow">
+                <div class="card-body">
+                    <h5 class="card-title">عدد العقارات</h5>
+                    <p class="card-text fs-4 fw-bold">@Model.PropertiesCount</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col animate-card">
+            <div class="card text-white bg-success shadow">
+                <div class="card-body">
+                    <h5 class="card-title">عدد التصنيفات</h5>
+                    <p class="card-text fs-4 fw-bold">@Model.CategoriesCount</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col animate-card">
+            <div class="card text-white bg-info shadow">
+                <div class="card-body">
+                    <h5 class="card-title">عدد الرسائل</h5>
+                    <p class="card-text fs-4 fw-bold">@Model.MessagesCount</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col animate-card">
+            <div class="card text-white bg-dark shadow">
+                <div class="card-body">
+                    <h5 class="card-title">عدد المستخدمين</h5>
+                    <p class="card-text fs-4 fw-bold">@Model.UsersCount</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col animate-card">
+            <div class="card text-success shadow bg-success bg-opacity-25">
+                <div class="card-body">
+                    <h5 class="card-title">الطلبات</h5>
+                    <p class="card-text fs-4 fw-bold">@Model.BookingsCount</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row mt-5">
+        <div class="col-md-6 animate-card">
+            <div class="card shadow">
+                <div class="card-header bg-primary text-white">
+                    توزيع العناصر
+                </div>
+                <div class="card-body">
+                    <div id="pieChart"></div> 
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 animate-card">
+            <div class="card shadow">
+                <div class="card-header bg-success text-white">
+                    النمو الزمني
+                </div>
+                <div class="card-body">
+                    <canvas id="lineChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-5 animate-card">
+        <div class="col-md-12">
+            <div class="card shadow">
+                <div class="card-header bg-secondary text-white">
+                    ملخص إحصائي تفصيلي
+                </div>
+                <div class="card-body">
+                    <table class="table table-bordered table-hover">
+                        <thead class="table-light">
+                            <tr>
+                                <th>البند</th>
+                                <th>العدد</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr><td>العقارات</td><td>@Model.PropertiesCount</td></tr>
+                            <tr><td>التصنيفات</td><td>@Model.CategoriesCount</td></tr>
+                            <tr><td>الطلبات</td><td>@Model.BookingsCount</td></tr>
+                            <tr><td>الرسائل</td><td>@Model.MessagesCount</td></tr>
+                            <tr><td>المستخدمين</td><td>@Model.UsersCount</td></tr>
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+
+    <script>
+        const lineCtx = document.getElementById('lineChart').getContext('2d');
+        new Chart(lineCtx, {
+            type: 'line',
+            data: {
+                labels: ['يناير', 'فبراير', 'مارس', 'أبريل', 'مايو', 'يونيو'],
+                datasets: [{
+                    label: 'نمو المستخدمين',
+                    data: [2, 4, 6, 10, 15, @Model.UsersCount],
+                    borderColor: '#0d6efd',
+                    tension: 0.4,
+                    fill: false
+                }]
+            },
+            options: {
+                animation: {
+                    duration: 1200,
+                    easing: 'easeInOutQuart'
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+
+
+        var options = {
+            series: [
+        @Model.PropertiesCount,
+        @Model.CategoriesCount,
+        @Model.MessagesCount,
+        @Model.UsersCount,
+        @Model.BookingsCount 
+            ],
+            chart: {
+                width: '100%',
+                type: 'pie',
+            },
+            labels: [
+                'العقارات',
+                'التصنيفات',
+                'الرسائل',
+                'المستخدمين',
+                'الطلبات' 
+            ],
+            colors: [
+                '#0d6efd',
+                '#198754',
+                '#0dcaf0',
+                '#212529',
+                '#49bb88'
+            ],
+            legend: {
+                position: 'bottom'
+            }
+        };
+        var chart = new ApexCharts(document.querySelector("#pieChart"), options);
+        chart.render();
+
+    </script>
+}

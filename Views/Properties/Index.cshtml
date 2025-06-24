@@ -2,6 +2,7 @@
 
 @{
     ViewData["Title"] = "قائمة العقارات";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
 
 <div class="container mt-4">
@@ -41,21 +42,26 @@
                         <td>@item.Bathrooms</td>
                         <td>@item.Area</td>
                         <td>
-                            <img src="@item.MainImageUrl" alt="Image" style="max-width: 80px; max-height: 60px;" />
+                            <img src="@(string.IsNullOrEmpty(item.MainImageUrl) ? "/images/default.png" : item.MainImageUrl)"
+                                 alt="صورة"
+                                 class="img-thumbnail"
+                                 style="max-width: 80px;" />
                         </td>
+
+
                         <td>
                             @(item.IsFeatured ? "نعم" : "لا")
                         </td>
                         <td>@item.Category?.Name</td>
                         <td>
                             <div class="btn-group btn-group-sm">
-                                <a class="btn btn-outline-primary" asp-action="Edit" asp-route-id="@item.Id">
+                                <a class="btn btn-outline-primary" asp-action="Edit" asp-route-id="@item.Id" title="تعديل">
                                     <i class="bi bi-pencil-square"></i>
                                 </a>
-                                <a class="btn btn-outline-info" asp-action="Details" asp-route-id="@item.Id">
+                                <a class="btn btn-outline-info" asp-action="Details" asp-route-id="@item.Id" title="عرض">
                                     <i class="bi bi-eye"></i>
                                 </a>
-                                <a class="btn btn-outline-danger" asp-action="Delete" asp-route-id="@item.Id">
+                                <a class="btn btn-outline-danger" asp-action="Delete" asp-route-id="@item.Id" title="حذف">
                                     <i class="bi bi-trash"></i>
                                 </a>
                             </div>

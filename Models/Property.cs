@@ -1,7 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
-using RealEstateMVC.Models;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using Microsoft.EntityFrameworkCore;
 
 namespace RealEstateMVC.Models
 {
@@ -24,23 +25,23 @@ namespace RealEstateMVC.Models
 
         public int Bedrooms { get; set; }
         public int Bathrooms { get; set; }
-
-        // المساحة بالمتر المربع
         public int Area { get; set; }
+
+        [ValidateNever]
         public string MainImageUrl { get; set; }
 
-        // الحقل الذي أضفته لتمييز العقار
+        // لن يُخزن، فقط لاستقبال الصورة وقت الإرسال
+        [NotMapped]
+        public IFormFile MainImage { get; set; }
+
         public bool IsFeatured { get; set; }
 
-        // --- هنا نحدد العلاقة مع جدول الفئات ---
-
-        // 1. هذا هو المفتاح الخارجي (Foreign Key)
         public int CategoryId { get; set; }
 
-        // 2. هذه الخاصية تربط المفتاح الخارجي بجدول الفئات مباشرة
+        [ValidateNever]
         [ForeignKey("CategoryId")]
         public virtual Category Category { get; set; }
+        [ValidateNever]
         public virtual ICollection<PropertyImage> PropertyImages { get; set; }
-
     }
 }

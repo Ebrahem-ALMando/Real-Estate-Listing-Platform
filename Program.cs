@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using RealEstateMVC.Data;
+using RealEstateMVC.Hubs;
 using RealEstateMVC.Models;
 
 namespace RealEstateMVC
@@ -10,7 +11,7 @@ namespace RealEstateMVC
         public static async Task Main(string[] args) 
         {
             var builder = WebApplication.CreateBuilder(args);
-
+            builder.Services.AddSignalR();
             builder.Services.AddControllersWithViews()
                 .AddRazorRuntimeCompilation();
 
@@ -54,7 +55,7 @@ namespace RealEstateMVC
                 pattern: "{controller=Home}/{action=Index}/{id?}");
             app.MapRazorPages();
 
-        
+            app.MapHub<NotificationHub>("/notificationHub");
             using (var scope = app.Services.CreateScope())
             {
                 var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
@@ -76,6 +77,7 @@ namespace RealEstateMVC
                     await userManager.AddToRoleAsync(adminUser, "Admin");
                 }
             }
+      
 
             await app.RunAsync(); 
         }

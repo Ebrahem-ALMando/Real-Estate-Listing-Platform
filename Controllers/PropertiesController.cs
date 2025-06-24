@@ -2,28 +2,35 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.AspNetCore.SignalR;
 using Microsoft.EntityFrameworkCore;
-using RealEstateMVC.Data; // تأكد أن هذا هو المسار الصحيح لـ DbContext
-using RealEstateMVC.Models; // تأكد أن هذا هو المسار الصحيح للنماذج
+using RealEstateMVC.Data;
+using RealEstateMVC.Hubs;
+using RealEstateMVC.Models; 
 
-// Namespace الصحيح للمتحكمات
+
 namespace RealEstateMVC.Controllers
 {
     public class PropertiesController : Controller
     {
         private readonly ApplicationDbContext _context;
+        private readonly IHubContext<NotificationHub> _hubContext;
 
-        public PropertiesController(ApplicationDbContext context)
+        public PropertiesController(ApplicationDbContext context, IHubContext<NotificationHub> hubContext)
         {
             _context = context;
+            _hubContext = hubContext;
         }
 
-        // GET: Properties
+        // GET: Propertiesي
+
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Index()
         {
-            // تم تصحيح جملة Include هنا
+            
             var applicationDbContext = _context.Properties.Include(p => p.Category);
             return View(await applicationDbContext.ToListAsync());
         }
@@ -36,7 +43,7 @@ namespace RealEstateMVC.Controllers
                 return NotFound();
             }
 
-            // تم تصحيح جملة Include هنا
+
             var property = await _context.Properties
                 .Include(p => p.Category)
                 .FirstOrDefaultAsync(m => m.Id == id);
@@ -49,27 +56,62 @@ namespace RealEstateMVC.Controllers
         }
 
         // GET: Properties/Create
+        [Authorize(Roles = "Admin")]
         public IActionResult Create()
         {
             ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name");
             return View();
         }
-
+        [Authorize(Roles = "Admin")]
         // POST: Properties/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Title,Description,Price,Address,Bedrooms,Bathrooms,Area,IsFeatured,CategoryId")] Property property)
+        public async Task<IActionResult> Create(Property property)
         {
-            if (ModelState.IsValid)
+            try
             {
-                _context.Add(property);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                if (ModelState.IsValid)
+                {
+                    if (property.MainImage != null && property.MainImage.Length > 0)
+                    {
+                        var fileName = Guid.NewGuid().ToString() + Path.GetExtension(property.MainImage.FileName);
+                        var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images", fileName);
+
+                        using (var stream = new FileStream(filePath, FileMode.Create))
+                        {
+                            await property.MainImage.CopyToAsync(stream);
+                        }
+
+                        property.MainImageUrl = "/images/" + fileName;
+                    }
+
+                    _context.Add(property);
+                    await _context.SaveChangesAsync();
+                    await _hubContext.Clients.All.SendAsync("ReceiveNotification", "تم إضافة عقار جديد: " + property.Title);
+                    return RedirectToAction(nameof(Index));
+                }
+
+    
+                foreach (var error in ModelState.Values.SelectMany(v => v.Errors))
+                {
+                    Console.WriteLine("Validation Error: " + error.ErrorMessage);
+                }
             }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Exception Occurred: " + ex.Message);
+                Console.WriteLine("Stack Trace: " + ex.StackTrace);
+                TempData["Error"] = "حدث خطأ أثناء إضافة العقار: " + ex.Message;
+            }
+
             ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name", property.CategoryId);
             return View(property);
         }
 
+
+
+
+        [Authorize(Roles = "Admin")]
         // GET: Properties/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
@@ -86,7 +128,7 @@ namespace RealEstateMVC.Controllers
             ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name", property.CategoryId);
             return View(property);
         }
-
+        [Authorize(Roles = "Admin")]
         // POST: Properties/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
@@ -120,7 +162,7 @@ namespace RealEstateMVC.Controllers
             ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name", property.CategoryId);
             return View(property);
         }
-
+        [Authorize(Roles = "Admin")]
         // GET: Properties/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
@@ -139,7 +181,7 @@ namespace RealEstateMVC.Controllers
 
             return View(property);
         }
-
+        [Authorize(Roles = "Admin")]
         // POST: Properties/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]

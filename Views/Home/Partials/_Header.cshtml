@@ -13,7 +13,7 @@
                 <li>
                     <a href="#" class="header-top-link">
                         <ion-icon name="location-outline"></ion-icon>
-                        <address>15/A° »—Ã ‰Ì” ° ‰ÌÊÌÊ—ﬂ</address>
+                        <address>”Ê—Ì« </address>
                     </a>
                 </li>
             </ul>
@@ -31,7 +31,7 @@
     </div>
 
     <div class="header-bottom">
-        <div class="container d-flex justify-content-between align-items-center">
+        <div class="w-100 d-flex justify-content-between align-items-center px-4">
             <a href="/" class="logo">
                 <img src="/images/logo.png" alt="‘⁄«— Homeverse">
             </a>
@@ -52,18 +52,22 @@
                         <li><a href="/about" class="navbar-link" data-nav-link>„‰ ‰Õ‰</a></li>
                         <li><a href="/services" class="navbar-link" data-nav-link>«·Œœ„« </a></li>
                         <li><a href="/properties" class="navbar-link" data-nav-link>«·⁄ﬁ«—« </a></li>
-                        <li><a href="/blog" class="navbar-link" data-nav-link>«·„œÊ‰…</a></li>
+                        <li><a href="/http://192.168.137.94:5050/" target="_blank" class="navbar-link" data-nav-link>«·„œÊ‰…</a></li>
                         <li><a href="/contact" class="navbar-link" data-nav-link> Ê«’· „⁄‰«</a></li>
 
                         @if (User.Identity.IsAuthenticated)
                         {
-                            if (User.IsInRole("Admin"))
+                            @if (User.IsInRole("Admin"))
                             {
-                                <li><a href="/AdminDashboard" class="navbar-link">·ÊÕ… «· Õﬂ„</a></li>
+                                <li><a class="navbar-link" asp-area="Admin" asp-controller="Dashboard" asp-action="Index">·ÊÕ… «· Õﬂ„</a></li>
                             }
+
+
                             else if (User.IsInRole("User"))
                             {
-                                <li><a href="/MyOrders" class="navbar-link">ÿ·»« Ì</a></li>
+                                <li>
+                                    <a href="/Booking/MyBookings" class="navbar-link">ÿ·»« Ì</a>
+                                </li>
                             }
                             <li><form method="post" asp-area="Identity" asp-page="/Account/Logout"><button type="submit" class="navbar-link btn btn-link"> ”ÃÌ· «·Œ—ÊÃ</button></form></li>
                         }
@@ -77,20 +81,20 @@
             </nav>
 
             <div class="header-bottom-actions">
-                <button class="header-bottom-actions-btn" aria-label="»ÕÀ">
-                    <ion-icon name="search-outline"></ion-icon>
-                    <span>»ÕÀ</span>
-                </button>
+                @* <button class="header-bottom-actions-btn" aria-label="»ÕÀ"> *@
+                @*     <ion-icon name="search-outline"></ion-icon> *@
+                @*     <span>»ÕÀ</span> *@
+                @* </button> *@
 
-                <a href="/profile" class="header-bottom-actions-btn" aria-label="«·„·› «·‘Œ’Ì">
-                    <ion-icon name="person-outline"></ion-icon>
-                    <span>«·„·› «·‘Œ’Ì</span>
-                </a>
+                @* <a href="/profile" class="header-bottom-actions-btn" aria-label="«·„·› «·‘Œ’Ì"> *@
+                @*     <ion-icon name="person-outline"></ion-icon> *@
+                @*     <span>«·„·› «·‘Œ’Ì</span> *@
+                @* </a> *@
 
-                <a href="/cart" class="header-bottom-actions-btn" aria-label="«·”·…">
-                    <ion-icon name="cart-outline"></ion-icon>
-                    <span>«·”·…</span>
-                </a>
+                @* <a href="/cart" class="header-bottom-actions-btn" aria-label="«·”·…"> *@
+                @*     <ion-icon name="cart-outline"></ion-icon> *@
+                @*     <span>«·”·…</span> *@
+                @* </a> *@
 
                 <button class="header-bottom-actions-btn" data-nav-open-btn aria-label="› Õ «·ﬁ«∆„…">
                     <ion-icon name="menu-outline"></ion-icon>

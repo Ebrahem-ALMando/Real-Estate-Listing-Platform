@@ -1,7 +1,7 @@
 ﻿@model IEnumerable<RealEstateMVC.Models.Category>
-
 @{
-    ViewData["Title"] = "إدارة التصنيفات";
+    ViewData["Title"] = "قائمة التصنيفات";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
 
 <div class="container mt-4">
@@ -12,33 +12,35 @@
         </a>
     </div>
 
-    <table class="table table-bordered table-hover table-striped text-center align-middle shadow-sm">
-        <thead class="table-dark">
-            <tr>
-                <th>اسم التصنيف</th>
-                <th>الإجراءات</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var item in Model)
-            {
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover table-striped text-center align-middle shadow-sm">
+            <thead class="table-dark">
                 <tr>
-                    <td>@Html.DisplayFor(modelItem => item.Name)</td>
-                    <td>
-                        <div class="btn-group" role="group">
-                            <a class="btn btn-outline-primary btn-sm" asp-action="Edit" asp-route-id="@item.Id">
-                                <i class="bi bi-pencil-square"></i> تعديل
-                            </a>
-                            <a class="btn btn-outline-info btn-sm" asp-action="Details" asp-route-id="@item.Id">
-                                <i class="bi bi-info-circle"></i> تفاصيل
-                            </a>
-                            <a class="btn btn-outline-danger btn-sm" asp-action="Delete" asp-route-id="@item.Id">
-                                <i class="bi bi-trash"></i> حذف
-                            </a>
-                        </div>
-                    </td>
+                    <th>اسم التصنيف</th>
+                    <th>الإجراءات</th>
                 </tr>
-            }
-        </tbody>
-    </table>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                        <td>
+                            <div class="btn-group btn-group-sm" role="group">
+                                <a class="btn btn-outline-primary" asp-action="Edit" asp-route-id="@item.Id" title="تعديل">
+                                    <i class="bi bi-pencil-square"></i>
+                                </a>
+                                <a class="btn btn-outline-info" asp-action="Details" asp-route-id="@item.Id" title="تفاصيل">
+                                    <i class="bi bi-info-circle"></i>
+                                </a>
+                                <a class="btn btn-outline-danger" asp-action="Delete" asp-route-id="@item.Id" title="حذف">
+                                    <i class="bi bi-trash"></i>
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
 </div>

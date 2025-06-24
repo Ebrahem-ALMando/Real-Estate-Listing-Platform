@@ -1,0 +1,72 @@
+﻿@model IEnumerable<RealEstateMVC.Models.Booking>
+
+@Html.Partial("~/Views/Home/Partials/_Header.cshtml")
+
+<section class="section" id="my-bookings">
+    <div class="container">
+        <p class="section-subtitle">لوحة المستخدم</p>
+        <h2 class="h2 section-title">طلباتي</h2>
+
+        <div class="table-responsive">
+            <table class="table table-bordered text-center">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>العقار</th>
+                        <th>تاريخ الحجز</th>
+                        <th>الحالة</th>
+                        <th>اجراء</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Property?.Title</td>
+                            <td>@item.BookingDate.ToShortDateString()</td>
+                            <td>
+                                @{
+                                    string statusClass = "";
+                                    string statusText = "";
+
+                                    switch (item.Status)
+                                    {
+                                        case "Pending":
+                                            statusClass = "bg-warning bg-opacity-25 text-warning";
+                                            statusText = "قيد الانتظار";
+                                            break;
+                                        case "Confirmed":
+                                            statusClass = "bg-success bg-opacity-25 text-success";
+                                            statusText = "تم القبول";
+                                            break;
+                                        case "Cancelled":
+                                            statusClass = "bg-danger bg-opacity-25 text-danger";
+                                            statusText = "مرفوض";
+                                            break;
+                                        default:
+                                            statusText = item.Status;
+                                            break;
+                                    }
+                                }
+                                <span class="d-inline-block px-2 py-1 rounded @statusClass">
+                                    @statusText
+                                </span>
+                            </td>
+                            <td>
+                                    @if (item.Status == "Pending")
+                                    {
+                                        <form asp-action="Cancel" asp-controller="Booking" method="post" onsubmit="return confirm('هل أنت متأكد من إلغاء الطلب؟');" class="d-inline">
+                                            <input type="hidden" name="id" value="@item.Id" />
+                                            <button type="submit" class="btn btn-sm btn-outline-danger">إلغاء</button>
+                                        </form>
+                                    }
+                            </td>
+
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>

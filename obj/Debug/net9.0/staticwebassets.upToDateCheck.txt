@@ -49,6 +49,7 @@ D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعما
 D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
 D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
 D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\robots.txt
 D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
 D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
 D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
@@ -62,12 +63,22 @@ D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعما
 D:\Ebrahem\كلية الهندسة المعلوماتية -دراستي\اعمال السنوات الدراسية\السنة الرابعة\فصل ثاني\ويب\RealEstateMVC\RealEstateMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
 wwwroot\css\style.css
 wwwroot\favicon.ico
+wwwroot\images\149dab24-a516-40c7-9620-ce4e53f4a1c9.jpg
+wwwroot\images\70a2eb2a-a049-4055-bd27-bd97cb6082e6.jpg
+wwwroot\images\898f4b31-30c8-4155-a4d0-1dac5715b92b.jpg
 wwwroot\images\about-banner-1.png
 wwwroot\images\about-banner-2.jpg
 wwwroot\images\author.jpg
+wwwroot\images\bfbbcba9-2bf3-4fa1-968a-ea6beb251ff7.jpg
 wwwroot\images\blog-1.png
 wwwroot\images\blog-2.jpg
 wwwroot\images\blog-3.jpg
+wwwroot\images\c0b13c01-f589-4611-ba61-a1bf3c885f15.jpg
+wwwroot\images\d5ed7c6b-f1f0-491b-a5db-6e599cda23f8.png
+wwwroot\images\e6542a98-7f53-4017-a301-aab33cfae521.png
+wwwroot\images\e763eff1-d6d5-4be4-9829-1f9f8be97e00.jpg
+wwwroot\images\fa5f0e8b-931a-45d2-9240-07223b8d269e.jpg
+wwwroot\images\fba08f5d-8aa0-410e-8bf1-f9a8b0e9868f.png
 wwwroot\images\hero-banner.png
 wwwroot\images\logo.png
 wwwroot\images\logo-light.png
@@ -78,8 +89,10 @@ wwwroot\images\property-4.png
 wwwroot\images\service-1.png
 wwwroot\images\service-2.png
 wwwroot\images\service-3.png
+wwwroot\images\users\8b63d26e-1cd5-4662-878a-30f0a4baeae8.jpg
 wwwroot\images\users\902a4903-5ef2-4772-89f1-d44e79decb57.jpg
 wwwroot\images\users\bf0d544b-72da-4e21-b5c6-2bf13f8e363c.jpg
+wwwroot\images\users\cf91ab94-3eae-43ea-baca-ee640f5da0ae.jpg
 wwwroot\images\users\dc06ec3d-0d79-4548-a5f7-c201a13a4cfc.jpg
 wwwroot\js\script.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
@@ -142,3 +155,4 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\robots.txt

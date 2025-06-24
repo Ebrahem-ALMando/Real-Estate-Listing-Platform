@@ -9,7 +9,7 @@ namespace RealEstateMVC.Models
         public int Id { get; set; }
         public DateTime BookingDate { get; set; }
         public string Status { get; set; } // e.g., "Pending", "Confirmed", "Cancelled"
-        public string Message { get; set; }
+
 
         // Foreign key to the requested property
         public int PropertyId { get; set; }
@@ -22,3 +22,5 @@ namespace RealEstateMVC.Models
         public virtual ApplicationUser User { get; set; }
     }
 }
+
+//public string Message { get; set; }

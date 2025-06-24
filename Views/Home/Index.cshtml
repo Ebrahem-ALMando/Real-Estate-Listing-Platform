@@ -1,4 +1,6 @@
-﻿@{
+﻿@model IEnumerable<RealEstateMVC.Models.Property>
+
+@{
     ViewData["Title"] = "Home";
 }
 
@@ -6,10 +8,11 @@
 @Html.Partial("Partials/_Hero")
 @Html.Partial("Partials/_About")
 @Html.Partial("Partials/_Service")
-@Html.Partial("Partials/_Property")
+@await Html.PartialAsync("Partials/_Property", Model)
 @Html.Partial("Partials/_Blog")
 @Html.Partial("Partials/_Features")
 @Html.Partial("Partials/_Cta")
+@await Html.PartialAsync("Partials/_ContactForm", new RealEstateMVC.Models.Message()) 
 @Html.Partial("Partials/_Footer")
 
 @section Scripts {

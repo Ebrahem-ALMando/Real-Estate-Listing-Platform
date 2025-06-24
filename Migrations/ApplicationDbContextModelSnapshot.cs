@@ -299,22 +299,22 @@ namespace RealEstateMVC.Migrations
                     b.Property<bool>("IsRead")
                         .HasColumnType("bit");
 
-                    b.Property<string>("ReceiverId")
+                    b.Property<string>("SenderEmail")
                         .IsRequired()
-                        .HasColumnType("nvarchar(450)");
+                        .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("SenderId")
+                    b.Property<string>("SenderName")
                         .IsRequired()
-                        .HasColumnType("nvarchar(450)");
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("SentAt")
                         .HasColumnType("datetime2");
 
+                    b.Property<string>("Subject")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("Id");
-
-                    b.HasIndex("ReceiverId");
-
-                    b.HasIndex("SenderId");
 
                     b.ToTable("Messages");
                 });
@@ -460,23 +460,6 @@ namespace RealEstateMVC.Migrations
                     b.Navigation("Property");
 
                     b.Navigation("User");
-                });
-
-            modelBuilder.Entity("RealEstateMVC.Models.Message", b =>
-                {
-                    b.HasOne("RealEstateMVC.Models.ApplicationUser", "Receiver")
-                        .WithMany()
-                        .HasForeignKey("ReceiverId")
-                        .IsRequired();
-
-                    b.HasOne("RealEstateMVC.Models.ApplicationUser", "Sender")
-                        .WithMany()
-                        .HasForeignKey("SenderId")
-                        .IsRequired();
-
-                    b.Navigation("Receiver");
-
-                    b.Navigation("Sender");
                 });
 
             modelBuilder.Entity("RealEstateMVC.Models.Property", b =>

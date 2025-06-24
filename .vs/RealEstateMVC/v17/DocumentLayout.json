@@ -1,0 +1,456 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\views\\home\\partials\\_blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:views\\home\\partials\\_blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\views\\home\\partials\\_property.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:views\\home\\partials\\_property.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\views\\home\\partials\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:views\\home\\partials\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\controllers\\propertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:controllers\\propertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\migrations\\20250620185318_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:migrations\\20250620185318_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\controllers\\sitemapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:controllers\\sitemapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\wwwroot\\robots.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:wwwroot\\robots.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|d:\\ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\realestatemvc\\realestatemvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FE89166-888D-4482-956B-EEE73210DDA0}|RealEstateMVC.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:22:00.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T10:17:02.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Property.cs",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "Models\\Property.cs",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Models\\Property.cs",
+              "RelativeToolTip": "Models\\Property.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvykAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:13:22.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Blog.cshtml",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Home\\Partials\\_Blog.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Partials\\_Blog.cshtml",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Home\\Partials\\_Blog.cshtml",
+              "RelativeToolTip": "Views\\Home\\Partials\\_Blog.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T10:00:55.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:01:36.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Property.cshtml",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Home\\Partials\\_Property.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Partials\\_Property.cshtml",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Home\\Partials\\_Property.cshtml",
+              "RelativeToolTip": "Views\\Home\\Partials\\_Property.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T08:16:29.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MessagesController.cs",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "Controllers\\MessagesController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:55:44.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T22:15:20.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T09:05:27.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Home\\Partials\\_Header.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Partials\\_Header.cshtml",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Home\\Partials\\_Header.cshtml",
+              "RelativeToolTip": "Views\\Home\\Partials\\_Header.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T22:12:49.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T22:01:04.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "robots.txt",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\wwwroot\\robots.txt",
+              "RelativeDocumentMoniker": "wwwroot\\robots.txt",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\wwwroot\\robots.txt",
+              "RelativeToolTip": "wwwroot\\robots.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-24T09:02:52.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T09:43:02.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PropertiesController.cs",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Controllers\\PropertiesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PropertiesController.cs",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Controllers\\PropertiesController.cs",
+              "RelativeToolTip": "Controllers\\PropertiesController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwDAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T21:58:28.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:19:04.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAwLoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T08:09:03.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T09:27:14.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Delete.cshtml",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T09:27:40.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Details.cshtml",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T09:27:39.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T21:56:52.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250620185318_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Migrations\\20250620185318_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250620185318_InitialCreate.cs",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Migrations\\20250620185318_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250620185318_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:11:12.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T08:27:42.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SitemapController.cs",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Controllers\\SitemapController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SitemapController.cs",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Controllers\\SitemapController.cs",
+              "RelativeToolTip": "Controllers\\SitemapController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAxwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:59:20.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Ebrahem\\\u0643\u0644\u064A\u0629 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\u064A\u0629 -\u062F\u0631\u0627\u0633\u062A\u064A\\\u0627\u0639\u0645\u0627\u0644 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0627\u0644\u062F\u0631\u0627\u0633\u064A\u0629\\\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629\\\u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\\u0648\u064A\u0628\\RealEstateMVC\\RealEstateMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T22:00:52.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

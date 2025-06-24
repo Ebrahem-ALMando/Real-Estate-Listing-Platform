@@ -1,148 +1,65 @@
-<section class="blog" id="blog">
-    <div class="container">
+<ul class="blog-list has-scrollbar" id="blog-list">
 
-        <p class="section-subtitle">News & Blogs</p>
+</ul>
+<script>
+    const blogList = document.getElementById("blog-list");
 
-        <h2 class="h2 section-title">Latest News Feeds</h2>
+    fetch("http://192.168.137.94:5050/api/api/posts")
+      .then((response) => response.json())
+      .then((data) => {
+        data.forEach((post) => {
+          const image = post.content.find(c => c.type === "image")?.value;
+          const text = post.content.find(c => c.type === "text")?.value;
+          const date = new Date(post.createdAt).toLocaleDateString('ar-EG', {
+            year: 'numeric', month: 'long', day: 'numeric'
+          });
 
-        <ul class="blog-list has-scrollbar">
-
+          const card = `
             <li>
-                <div class="blog-card">
+              <div class="blog-card">
+                <figure class="card-banner w-100">
+                  <img src="http://192.168.137.94:5050/uploads/${image}" alt="${post.title}" class="w-100">
+                </figure>
 
-                    <figure class="card-banner">
-                        <img src="./images/blog-1.png" alt="The Most Inspiring Interior Design Of 2021" class="w-100">
-                    </figure>
+                <div class="blog-content">
+                  <div class="blog-content-top">
+                    <ul class="card-meta-list">
+                      <li>
+                        <a href="#" class="card-meta-link">
+                          <ion-icon name="person"></ion-icon>
+                          <span>»Ê«”ÿ…: «·≈œ«—…</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="#" class="card-meta-link">
+                          <ion-icon name="pricetags"></ion-icon>
+                          <span>„ﬁ«·</span>
+                        </a>
+                      </li>
+                    </ul>
+                    <h3 class="h3 blog-title">
+                      <a href="#">${post.title}</a>
+                    </h3>
+                  </div>
 
-                    <div class="blog-content">
-
-                        <div class="blog-content-top">
-                            <ul class="card-meta-list">
-                                <li>
-                                    <a href="#" class="card-meta-link">
-                                        <ion-icon name="person"></ion-icon>
-                                        <span>by: Admin</span>
-                                    </a>
-                                </li>
-
-                                <li>
-                                    <a href="#" class="card-meta-link">
-                                        <ion-icon name="pricetags"></ion-icon>
-                                        <span>Interior</span>
-                                    </a>
-                                </li>
-                            </ul>
-
-                            <h3 class="h3 blog-title">
-                                <a href="#">The Most Inspiring Interior Design Of 2021</a>
-                            </h3>
-                        </div>
-
-                        <div class="blog-content-bottom">
-                            <div class="publish-date">
-                                <ion-icon name="calendar"></ion-icon>
-                                <time datetime="2022-04-27">Apr 27, 2022</time>
-                            </div>
-
-                            <a href="#" class="read-more-btn">Read More</a>
-                        </div>
-
+                  <div class="blog-content-bottom">
+                    <div class="publish-date">
+                      <ion-icon name="calendar"></ion-icon>
+                      <time datetime="${post.createdAt}">${date}</time>
                     </div>
 
+                    <a href="#" class="read-more-btn">«ﬁ—√ «·„“Ìœ</a>
+                  </div>
                 </div>
+              </div>
             </li>
+          `;
 
-            <li>
-                <div class="blog-card">
-
-                    <figure class="card-banner">
-                        <img src="./images/blog-2.jpg" alt="Recent Commercial Real Estate Transactions" class="w-100">
-                    </figure>
-
-                    <div class="blog-content">
-
-                        <div class="blog-content-top">
-                            <ul class="card-meta-list">
-                                <li>
-                                    <a href="#" class="card-meta-link">
-                                        <ion-icon name="person"></ion-icon>
-                                        <span>by: Admin</span>
-                                    </a>
-                                </li>
-
-                                <li>
-                                    <a href="#" class="card-meta-link">
-                                        <ion-icon name="pricetags"></ion-icon>
-                                        <span>Estate</span>
-                                    </a>
-                                </li>
-                            </ul>
-
-                            <h3 class="h3 blog-title">
-                                <a href="#">Recent Commercial Real Estate Transactions</a>
-                            </h3>
-                        </div>
-
-                        <div class="blog-content-bottom">
-                            <div class="publish-date">
-                                <ion-icon name="calendar"></ion-icon>
-                                <time datetime="2022-04-27">Apr 27, 2022</time>
-                            </div>
-
-                            <a href="#" class="read-more-btn">Read More</a>
-                        </div>
-
-                    </div>
-
-                </div>
-            </li>
-
-            <li>
-                <div class="blog-card">
-
-                    <figure class="card-banner">
-                        <img src="./images/blog-3.jpg" alt="Renovating a Living Room? Experts Share Their Secrets" class="w-100">
-                    </figure>
-
-                    <div class="blog-content">
-
-                        <div class="blog-content-top">
-                            <ul class="card-meta-list">
-                                <li>
-                                    <a href="#" class="card-meta-link">
-                                        <ion-icon name="person"></ion-icon>
-                                        <span>by: Admin</span>
-                                    </a>
-                                </li>
-
-                                <li>
-                                    <a href="#" class="card-meta-link">
-                                        <ion-icon name="pricetags"></ion-icon>
-                                        <span>Room</span>
-                                    </a>
-                                </li>
-                            </ul>
-
-                            <h3 class="h3 blog-title">
-                                <a href="#">Renovating a Living Room? Experts Share Their Secrets</a>
-                            </h3>
-                        </div>
-
-                        <div class="blog-content-bottom">
-                            <div class="publish-date">
-                                <ion-icon name="calendar"></ion-icon>
-                                <time datetime="2022-04-27">Apr 27, 2022</time>
-                            </div>
-
-                            <a href="#" class="read-more-btn">Read More</a>
-                        </div>
-
-                    </div>
-
-                </div>
-            </li>
-
-        </ul>
-
-    </div>
-</section>
+          blogList.insertAdjacentHTML("beforeend", card);
+        });
+      })
+      .catch((error) => {
+        blogList.innerHTML = "<li>›‘· ›Ì  Õ„Ì· «·„ﬁ«·« .</li>";
+        console.error("Error fetching posts:", error);
+      });
+</script>

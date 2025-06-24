@@ -1,0 +1,39 @@
+﻿@model IEnumerable<RealEstateMVC.Models.Booking>
+@{
+    ViewData["Title"] = "قائمة التصنيفات";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<h2>كل الطلبات</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>العقار</th>
+            <th>المستخدم</th>
+            <th>التاريخ</th>
+            <th>الحالة</th>
+            <th>تعديل</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Property?.Title</td>
+                <td>@item.User?.FullName</td>
+                <td>@item.BookingDate.ToShortDateString()</td>
+                <td>@item.Status</td>
+                <td>
+                    <form asp-action="UpdateStatus" method="post">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <select name="status" class="form-control">
+                            <option value="Pending" selected="@("Pending" == item.Status)">قيد الانتظار</option>
+                            <option value="Confirmed" selected="@("Confirmed" == item.Status)">مؤكد</option>
+                            <option value="Cancelled" selected="@("Cancelled" == item.Status)">ملغي</option>
+                        </select>
+                        <button type="submit" class="btn btn-sm btn-primary">تحديث</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

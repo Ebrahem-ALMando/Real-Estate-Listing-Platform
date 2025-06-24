@@ -1,5 +1,6 @@
 ﻿@model RealEstateMVC.Models.Message
 
+
 @{
     ViewData["Title"] = "حذف الرسالة";
 }
@@ -20,16 +21,11 @@
                 <dd class="col-sm-9">@Html.DisplayFor(model => model.Content)</dd>
 
                 <dt class="col-sm-3 fw-bold">تاريخ الإرسال:</dt>
-                <dd class="col-sm-9">@Html.DisplayFor(model => model.SentAt)</dd>
-
+                <dd class="col-sm-9">@Model.SentAt.ToString("yyyy/MM/dd HH:mm")</dd>
                 <dt class="col-sm-3 fw-bold">تمت القراءة:</dt>
-                <dd class="col-sm-9">@Html.DisplayFor(model => model.IsRead)</dd>
-
-                <dt class="col-sm-3 fw-bold">المرسل:</dt>
-                <dd class="col-sm-9">@Html.DisplayFor(model => model.Sender.Id)</dd>
-
-                <dt class="col-sm-3 fw-bold">المستلم:</dt>
-                <dd class="col-sm-9">@Html.DisplayFor(model => model.Receiver.Id)</dd>
+                <dd class="col-sm-9">
+                    @(Model.IsRead ? "نعم" : "لا")
+                </dd>
             </dl>
 
             <form asp-action="Delete">
